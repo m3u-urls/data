@@ -1,0 +1,348 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BBCEarth.webp" group-title="Animals",BBC Earth 🇬🇧
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.earthtouch.tv/media/1954995/logo-big.png" group-title="Animals",Earth Touch tv 🇺🇸
+https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900007JX_20230308T013510SQUARE.png_20230308013511.png" group-title="Animals",Inwild tv 🇺🇸
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/65c243143ef47d00084c90a9/colorLogoPNG.png" group-title="Animals",Love The Planet 🇮🇹
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetit-xiaomi/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/61eeb4a701020c00075676ef/colorLogoPNG.png" group-title="Animals",Nature Time 🇺🇸
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgdk/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5340b9d-394b-4503-a723-8fde0687cafd/Hero_Real_Wild_-_Simon_Tuquabo.jpg" group-title="Animals",Real Wild 🇺🇸
+https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png" group-title="Animals",Spike Outdoors 🇬🇧
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5cabdf1437b88b26947346b2/colorLogoPNG.png" group-title="Animals",TV Backcountry 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="Bahrain",AL24 News 🇩🇿
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/er5hOK4.png" group-title="Bahrain",Bahrain Quran 🇧🇭
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Bahrain",Bahrain Sports 1 🇧🇭
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="Bahrain",Bahrain Sports 2 🇧🇭
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LTD0jIm.png" group-title="Bahrain",Bahrain TV 🇧🇭
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://bit.ly/3vWtsfp" group-title="Bahrain",Bahrein International 🇧🇭
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Bahrain",Bahrein 🇧🇭إذاعة بحرين 🇧🇭
+https://5c7b683162943.streamlock.net/live/ngrp:radio-93-3_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Bahrain",Bahrein🇧🇭إذاعة البحرين 🇧🇭
+https://5c7b683162943.streamlock.net/live/ngrp:radio-102-3_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Bahrain",Bahrein🇧🇭الإذاعة الإنجليزية 🇧🇭
+https://5c7b683162943.streamlock.net/live/ngrp:radio-96-5_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Bahrain",Bahrein🇧🇭الإذاعة الشعبية 🇧🇭
+https://5c7b683162943.streamlock.net/live/ngrp:radio-95-0_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Bahrain",Bahrein🇧🇭الإذاعة الهندية 🇧🇭
+https://5c7b683162943.streamlock.net/live/ngrp:indianradio_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Bahrain",Bahrein🇧🇭القرآن الكريم 🇧🇭
+https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Bahrain",Elfadjer drama 🇩🇿
+http://154.58.202.131:8000/play/a03l
+#EXTINF:-1  tvg-logo="https://i.imgur.com/VEb631f.png" group-title="Bahrain",TV2 ALGÉRIE
+http://162.212.179.33/dvrfl05/gin-canalalgerie/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/VEb631f.png" group-title="Bahrain",TV2 🇩🇿
+https://tgn.bozztv.com/dvrfl05/gin-canalalgerie/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Bahrain",TV3 ALGÉRIE
+http://69.64.57.208/canalalgerie/playlist.m3u8
+#EXTINF:0 CUID="13" tvg-name="beIN SPORTS HD" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png" group-title="﻿BEIN SPORT",beIN SPORTS HD
+http://135.125.109.73:9000/beinsportglobal_.m3u8
+#EXTINF:0 CUID="14" tvg-name="beIN SPORTS NEWS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="﻿BEIN SPORT",beIN SPORTS NEWS
+http://135.125.109.73:9000/beinsportnew_.m3u8
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg" group-title="﻿BEIN SPORT",Bein Sport 1 En
+http://135.125.109.73:9000/beinsporten1_.m3u8
+#EXTINF:0 CUID="16" tvg-name="Bein Sport 2 En" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png" group-title="﻿BEIN SPORT",Bein Sport 2 En
+http://135.125.109.73:9000/beinsporten2_.m3u8
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg" group-title="﻿BEIN SPORT",Bein Sport
+https://ab.footballii.ir/hls2/bein1.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 beIN SPORTS 4K
+https://py.dencreak.com/bn_meta_4k_hdr.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 beIN SPORTS 4K
+https://py.dencreak.com/bn_meta_4k_hdr.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 beIN SPORTS 4K
+https://py.dencreak.com/bn_meta_4k_hdr.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 beIN SPORTS 1
+https://stream.ayas.ir/hls2/bein1.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 mlaliga +
+http://172.93.102.112:8989/278844_.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1
+http://176.119.29.7/0c55573d-12d8-43af-823b-25c94d67b190.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
+http://176.119.29.7/01ed3a36-03b2-4f64-9dfa-dea3df61b611.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
+https://baratrah.com/bein2/index.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3
+https://baratrah.com/bein3/index.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO1.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/GOGO2.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0
+https://balance.footballii.ir/hls2/bein1.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -00
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -02
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",SPORT HD
+https://cfvod.kaltura.com/hls/p/3064643/sp/306464300/serveFlavor/entryId/1_llk4fp54/v/1/ev/4/flavorId/1_n1ks4yal/name/a.mp4/index.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",SPORT OUTDOOR HD
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="﻿BEIN SPORT" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",canal + France
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="﻿BEIN SPORT",Bien sport 1 HD
+https://py.dencreak.com/bn_g_hd1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="﻿BEIN SPORT",Bien sport 1 SD
+https://py.dencreak.com/bn_g_sd1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="﻿BEIN SPORT",BEIN SPORT 2 HD
+https://py.dencreak.com/bn_g_hd2.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="﻿BEIN SPORT",BEIN SPORT 2 SD
+https://py.dencreak.com/bn_g_sd2.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="﻿BEIN SPORT",Bien sport 3 HD
+https://py.dencreak.com/bn_g_hd3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="﻿BEIN SPORT",Bien sport 3 SD
+https://py.dencreak.com/bn_g_sd3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="﻿BEIN SPORT",BEIN SPORT 4 HD
+https://py.dencreak.com/bn_g_hd4.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="﻿BEIN SPORT",BEIN SPORT 5 HD
+https://py.dencreak.com/bn_g_hd5.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="﻿BEIN SPORT",BEIN SPORT 6 HD
+https://py.dencreak.com/bn_g_hd6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-7.png" group-title="﻿BEIN SPORT",BEIN SPORTS 7 HD
+https://py.dencreak.com/bn_g_hd7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="﻿BEIN SPORT",BEIN SPORTS 8 HD
+https://py.dencreak.com/bn_g_hd8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="﻿BEIN SPORT", Bein Sports 1 HD
+http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6123/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="﻿BEIN SPORT", Bein Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F3cWTGD.png" group-title="﻿BEIN SPORT", Bein Sports 3 HD
+http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6124/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="﻿BEIN SPORT", Bein Sports 4 HD
+http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6125/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="﻿BEIN SPORT", Bein Sports 5 HD
+http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6126/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="﻿BEIN SPORT", Bein Sports 6 HD
+http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6127/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7KTVtHK.png" group-title="﻿BEIN SPORT", Bein Sports 7 HD
+http://e9f411eb.ottolok.net:80/iptv/YDFRWUQHUKMN2V/6128/index.m3u8
+#EXTINF:-1 group-title="﻿BEIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein_sd_1
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 group-title="﻿BEIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",bein_sd_2
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1 group-title="﻿BEIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/1200px-Logo_beIN_SPORTS_3.png",bein_sd_3
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1 group-title="﻿BEIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",bein_sd_4
+http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:-1 group-title="﻿BEIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_BeinSports_5_MAX.svg/2560px-Logo_BeinSports_5_MAX.svg.png",bein_sd_5
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:-1 group-title="﻿BEIN SPORT" tvg-logo="https://i.pinimg.com/originals/07/28/ef/0728ef60ccc6fb3252a427bda2050009.png",bein_sd_6
+http://135.125.109.73:9000/beinsport6_.m3u8
+#EXTINF:-1 group-title="﻿BEIN SPORT" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BEIN7.png",bein_sd_7
+http://135.125.109.73:9000/beinsport7_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png" group-title="﻿BEIN SPORT",bein_sd_8
+http://135.125.109.73:9000/beinsport8_.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",bein_sd_9
+http://135.125.109.73:9000/beinsport9_.m3u8
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 0
+http://87.229.95.134/TOD360/video.m3u8?token=tv
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 1
+http://87.229.95.134/TOD1/video.m3u8?token=tv
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 2
+http://87.229.95.134/TOD2/video.m3u8?token=tv
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 3
+http://87.229.95.134/TOD3/video.m3u8?token=tv
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 4
+http://87.229.95.134/TOD4/video.m3u8?token=tv
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 5
+http://87.229.95.134/TOD5/video.m3u8?token=tv
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 6
+http://87.229.95.134/TOD6/video.m3u8?token=tv
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 7
+http://87.229.95.134/TOD7/video.m3u8?token=tv
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 8
+http://87.229.95.134/TOD8/video.m3u8?token=tv
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 9
+http://87.229.95.134/TOD9/video.m3u8?token=tv
+#EXTINF:0 group-title="﻿BEIN SPORT" tvg-logo="https://bit.ly/4193wOv",LIVE 24 TOD 10
+http://87.229.95.134/TOD17/video.m3u8?token=tv
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" group-title="Children",Amou Yazid TV
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://bit.ly/3ymHLyF" group-title="Children",Atfal Wa Mawaheb
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="Children",Balapan TV
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="Children",EBS kids
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://bit.ly/48KWzEB" group-title="Children",Kids1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
+#EXTINF:-1  tvg-logo="https://bit.ly/48KWzEB" group-title="Children",Kids2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
+#EXTINF:-1  tvg-logo="https://bit.ly/48KWzEB" group-title="Children",Kids3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=35
+#EXTINF:-1  tvg-logo="https://bit.ly/48KWzEB" group-title="Children",Kids4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
+#EXTINF:-1  tvg-logo="https://bit.ly/48KWzEB" group-title="Children",Kids5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
+#EXTINF:-1  tvg-logo="https://bit.ly/48KWzEB" group-title="Children",Kids6
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=225
+#EXTINF:-1  tvg-logo="https://bit.ly/48KWzEB" group-title="Children",Kids7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2613
+#EXTINF:-1  tvg-logo="https://bit.ly/3PFq9Up" group-title="Children",Majid
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Children",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/oJuu63l.png" group-title="Children",Nickelodeon HD
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/zKfH3KI.png" group-title="Children",NickToons
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YMdvQBi.png" group-title="Children",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids.png" group-title="Children",ROTANA_KIDS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids.png" group-title="Children",ROTANA_KIDS
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="Children",Ryan and Friends
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_toon_ae_1.png" group-title="Children",SPACETOON
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?@amarnettv.live
+#EXTINF:-1  tvg-logo="https://i.imgur.com/6gZB1IC.png" group-title="Children",Spacetoon
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTINF:-1  tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="Children",Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/246vm7R.png" group-title="Children",ZooMoo HD
+https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="Children",🇧🇷 🧒➾ Toon Goggles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+#EXTINF:-1  tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/escola.png" group-title="Children",🇧🇷 🧒➾ Tv Escolaᴴᴰ
+https://5c483b9d1019c.streamlock.net/8054/8054/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Children",🇪🇸 🧒➾ Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1  tvg-logo="https://sck.pm/gl9u" group-title="Children",🇺🇸 🧒➾ TG Junior Kids
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="Children",🇺🇸 🧒➾ Tortues Ninja [Pluto]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ducktv.png" group-title="Children",🧒➾ Duck tv
+http://iptv.prosto.tv:7000/ch209/video.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 1
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-18/studioDGHXE.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 10
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-27/studioRQTKA.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 11
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-28/studioWVQMZ.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 12
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-29/studioUHDHG.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 13
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-31/studioNBNJT.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 14
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-30/studioTJHTR.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 15
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-06-01/studioSTSWU.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 16
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-06-02/studioYEDYA.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 17
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-06-03/studioOJZOG.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 18
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-06-04/studioBOPVQ.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 19
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-06-05/studioRRIKU.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 2
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-19/studioRAFCV.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 20
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-06-06/studioAUHYE.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 21
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-06-07/studioXADYH.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 22
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-06-08/studioSOBGS.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 23
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-06-09/studioPLNVG.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 24
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-06-12/studioBNNIY.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 25
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-06-13/studioKLJSV.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 26
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-06-14/studioJVNIS.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 3
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-20/studioDDDYJ.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 4
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-21/studioBDKNA.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 5
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-22/studioMODDR.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 6
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-23/studioIAMUL.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 7
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-24/studioIMXIH.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 8
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-25/studioQIKJB.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",ADNAN AND LINA 9
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-26/studioSFOGQ.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 1
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-10-31/studioMGMZH.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 10
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-10/studioYVTBI.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 12
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-13/studioKSSOO.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 13
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-14/studioAPKVY.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 14
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-15/studioHUXAU.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 15
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-16/studioHWSFP.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 16
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-17/studioDFHJY.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 17
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-20/studioCMQSI.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 18
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-21/studioLRLXR.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 19
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-22/studioOCXZA.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 20
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-23/studioHPYFY.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 21
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-24/studioPTDLY.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 22
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-27/studioBEIDN.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 23
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-28/studioORNVR.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 25
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-29/studioXLXQY.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 26
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-12-04/studioPPHDM.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 27
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-12-05/studioQQJDF.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 28
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-12-06/studioKWTBG.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 29
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-12-07/studioQCFKK.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 3
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-02/studioLPFSC.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 4
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-03/studioWYBWN.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 5
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-06/studioWHKYP.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 6
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-07/studioLQFDF.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 8
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-08/studioPTVNE.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR 9
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-09/studioGAWFV.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",GONGAR2
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-11-01/studioQJKMI.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",SASOKIE 1
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2019-01-21/studioVCSJJ.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",SASOKIE 10
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2019-02-03/studioXURKB.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",SASOKIE 11
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2019-02-04/studioJUDAL.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",SASOKIE 12
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2019-02-05/studioNEAKT.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",SASOKIE 13
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2019-02-06/studioPQGER.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",SASOKIE 14
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2019-02-07/studioJJKUC.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",SASOKIE 15
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2019-02-10/studioXIRDV.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",SASOKIE 16
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2019-02-11/studioIHEDX.smil/chunklist.m3u8?/ss/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Children's series",SASOKIE 17
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2019-0
