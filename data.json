@@ -1,0 +1,24 @@
+{
+  "playlists": [
+    {
+      "id": "m3u-001",
+      "m3u_url": "https://example.com/playlists/sports.m3u",
+      "added_at": "2025-12-14T10:30:00Z"
+    },
+    {
+      "id": "m3u-002",
+      "m3u_url": "https://example.com/playlists/movies.m3u",
+      "added_at": "2025-12-14T11:00:00Z"
+    },
+    {
+      "id": "m3u-003",
+      "m3u_url": "https://example.com/playlists/news.m3u",
+      "added_at": "2025-12-14T11:45:00Z"
+    },
+    {
+      "id": "m3u-004",
+      "m3u_url": "https://example.com/playlists/kids.m3u",
+      "added_at": "2025-12-14T12:15:00Z"
+    }
+  ]
+}
